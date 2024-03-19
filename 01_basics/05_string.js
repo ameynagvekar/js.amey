@@ -5,7 +5,7 @@ console.log(name + repoCount + "value");
 
 console.log(`My name is ${name} and my repo count is ${repoCount}`);
 
-const gamename = new String('Amey_Pandu')
+const gamename = new String('Amey_Pandu_tony_stark');
 
 console.log(gamename[0]);
 console.log(gamename.__proto__);
@@ -33,4 +33,8 @@ console.log(url.replace('%20', '_'));
 
 console.log(url.includes('chaman'));
 
-console.log(gamename.split('_'))
+console.log(gamename.split('_'));
+
+
+//study all string methods using mdn
+
